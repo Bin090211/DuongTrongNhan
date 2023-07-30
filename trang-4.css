@@ -1,0 +1,142 @@
+.e13a32e4ca8f2d3563612647cc3ff0-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.trang-4-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 189px;
+}
+.frame-26-button-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 180px;
+  height: 75px;
+}
+.i3 {
+  position: absolute;
+  top: 10px;
+  left: 3px;
+  display: inline-block;
+  font-weight: 700;
+  width: 177px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.frame-24-button-child1,
+.frame-26-button2 {
+  position: absolute;
+  top: 50px;
+  left: 1616px;
+  width: 180px;
+  height: 75px;
+}
+.frame-24-button-child1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 179px;
+}
+.i4 {
+  position: absolute;
+  top: 10px;
+  left: 4px;
+  display: inline-block;
+  font-weight: 700;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.frame-24-button-child2,
+.frame-24-button4 {
+  position: absolute;
+  top: 50px;
+  left: 1129px;
+  width: 179px;
+  height: 75px;
+}
+.frame-24-button-child2 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 250px;
+}
+.project2 {
+  position: absolute;
+  top: 8px;
+  left: 5px;
+  display: inline-block;
+  font-weight: 700;
+  width: 245px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.frame-24-button5,
+.trang-4-item {
+  position: absolute;
+  top: 50px;
+  height: 75px;
+}
+.frame-24-button5 {
+  left: 1342px;
+  width: 250px;
+  color: var(--color-white);
+}
+.trang-4-item {
+  left: 71px;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 677px;
+}
+.movie-posters {
+  position: absolute;
+  top: 60px;
+  left: 251px;
+  color: var(--color-white);
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 189px;
+  left: 0;
+  width: 667px;
+  height: 897px;
+  object-fit: cover;
+}
+.image-2-icon,
+.image-3-icon {
+  left: 667px;
+  width: 612px;
+}
+.image-3-icon {
+  left: 1279px;
+  width: 641px;
+}
+.trang-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-inria-sans);
+}
